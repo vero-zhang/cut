@@ -1,0 +1,21 @@
+# temp 
+tmp/
+output/
+build/
+
+# clion
+.idea/
+*.xml
+
+# eclipse
+.settings/
+.project
+.cproject
+
+# bazel
+bazel-bin
+bazel-cut
+bazel-genfiles
+bazel-out
+bazel-testlogs
+
